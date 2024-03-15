@@ -1,0 +1,94 @@
+-----------------------------------------------------------------
+Fecha y hora de incio de recopilacion: 2022-10-11 22:57:16.382222
+Fecha y hora de final de recopilacion: 2022-10-11 22:57:30.595803
+Tamaño total del archivo en Mb: 0.5354414 
+Cantidad total de tweets recopilados: 11 
+-----------------------------------------------------------------
+Fecha y hora de incio de recopilacion: 2022-10-11 23:25:08.180786
+Fecha y hora de final de recopilacion: 2022-10-11 23:25:39.577270
+Tamaño total del archivo en Mb: 0.5598732 
+Cantidad total de tweets recopilados: 32
+-----------------------------------------------------------------
+Fecha y hora de incio de recopilacion: 2022-11-02 14:00:46.616489
+Fecha y hora de final de recopilacion: 2022-11-02 14:01:14.976621
+Tamaño total del archivo en Mb: 0.0351569 
+Cantidad total de tweets recopilados: 56
+-----------------------------------------------------------------
+Fecha y hora de incio de recopilacion: 2022-11-02 14:58:30.602284
+Fecha y hora de final de recopilacion: 2022-11-02 14:58:48.892477
+Tamaño total del archivo en Mb: 0.0560621 
+Cantidad total de tweets recopilados: 23
+-----------------------------------------------------------------
+Fecha y hora de incio de recopilacion: 2022-11-02 17:28:43.833419
+Fecha y hora de incio de recopilacion: 2022-11-02 17:29:14.398120
+Fecha y hora de incio de recopilacion: 2022-11-02 17:30:07.580652
+Fecha y hora de final de recopilacion: 2022-11-02 17:30:44.723467
+Tamaño total del archivo en Mb: 1.6811396 
+Cantidad total de tweets recopilados: 88
+-----------------------------------------------------------------
+Fecha y hora de incio de recopilacion: 2022-11-02 22:11:49.257739
+Fecha y hora de final de recopilacion: 2022-11-02 22:12:25.605950
+Tamaño total del archivo en Mb: 1.7170399 
+Cantidad total de tweets recopilados: 42
+-----------------------------------------------------------------
+Fecha y hora de incio de recopilacion: 2022-11-13 16:49:56.217192
+Fecha y hora de incio de recopilacion: 2022-11-13 16:50:07.026476
+Fecha y hora de incio de recopilacion: 2022-11-13 18:54:12.242196
+Fecha y hora de incio de recopilacion: 2022-11-13 18:54:27.907754
+Fecha y hora de incio de recopilacion: 2022-11-14 12:57:06.711239
+Fecha y hora de final de recopilacion: 2022-11-14 12:57:17.365729
+Tamaño total del archivo en Mb: 0.0065147 
+Cantidad total de tweets recopilados: 17
+-----------------------------------------------------------------
+Fecha y hora de incio de recopilacion: 2022-11-14 13:07:56.459422
+Fecha y hora de final de recopilacion: 2022-11-14 13:08:07.288295
+Tamaño total del archivo en Mb: 0.0065177 
+Cantidad total de tweets recopilados: 16
+-----------------------------------------------------------------
+Fecha y hora de incio de recopilacion: 2022-11-15 10:47:37.960671
+Fecha y hora de final de recopilacion: 2022-11-15 10:47:50.293008
+Tamaño total del archivo en Mb: 0.0073679 
+Cantidad total de tweets recopilados: 14
+-----------------------------------------------------------------
+Fecha y hora de incio de recopilacion: 2022-11-15 11:15:06.788826
+Fecha y hora de final de recopilacion: 2022-11-15 11:16:12.194344
+Tamaño total del archivo en Mb: 168.7404648 
+Cantidad total de tweets recopilados: 224
+-----------------------------------------------------------------
+Fecha y hora de incio de recopilacion: 2022-11-15 11:24:33.004111
+Fecha y hora de final de recopilacion: 2022-11-15 11:24:52.238447
+Tamaño total del archivo en Mb: 168.7815748 
+Cantidad total de tweets recopilados: 57
+-----------------------------------------------------------------
+Fecha y hora de incio de recopilacion: 2022-11-15 11:28:46.635356
+Fecha y hora de incio de recopilacion: 2022-11-15 11:29:04.668078
+Fecha y hora de final de recopilacion: 2022-11-15 11:29:15.190440
+Tamaño total del archivo en Mb: 0.0179327 
+Cantidad total de tweets recopilados: 11
+-----------------------------------------------------------------
+Fecha y hora de incio de recopilacion: 2022-11-15 11:33:09.425828
+Fecha y hora de final de recopilacion: 2022-11-15 11:33:23.265916
+Tamaño total del archivo en Mb: 168.7935468 
+Cantidad total de tweets recopilados: 13
+-----------------------------------------------------------------
+Fecha y hora de incio de recopilacion: 2022-11-15 12:44:37.860095
+Fecha y hora de final de recopilacion: 2022-11-15 12:44:53.302363
+Tamaño total del archivo en Mb: 168.818962 
+Cantidad total de tweets recopilados: 34
+-----------------------------------------------------------------
+Fecha y hora de incio de recopilacion: 2022-11-15 13:33:34.787356
+Fecha y hora de incio de recopilacion: 2022-11-15 20:27:26.279183
+Fecha y hora de final de recopilacion: 2022-11-15 20:27:40.223648
+Tamaño total del archivo en Mb: 168.8279847 
+Cantidad total de tweets recopilados: 12
+-----------------------------------------------------------------
+Fecha y hora de incio de recopilacion: 2022-11-15 20:38:58.594770
+Fecha y hora de final de recopilacion: 2022-11-15 20:39:09.693391
+Tamaño total del archivo en Mb: 168.8300983 
+Cantidad total de tweets recopilados: 6
+-----------------------------------------------------------------
+Fecha y hora de incio de recopilacion: 2022-11-15 20:44:19.788751
+Fecha y hora de final de recopilacion: 2022-11-15 20:44:31.795672
+Tamaño total del archivo en Mb: 168.8419391 
+Cantidad total de tweets recopilados: 13
+-----------------------------------------------------------------
